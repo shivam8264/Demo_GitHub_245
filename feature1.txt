@@ -1,2 +1,0 @@
-This is feature1.txt file.
-Created by Shivam Yadav
